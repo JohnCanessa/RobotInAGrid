@@ -6,7 +6,7 @@ This code is what I came up without using the proposed solution.
 
 For additional info please take a look at the follwoing post in my blog:
 
-T.B.D.
+https://www.johncanessa.com/2020/04/21/robot-in-a-grid/
 
 Thanks and enjoy!
 
